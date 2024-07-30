@@ -3,7 +3,6 @@ package 이화정_0730;
 import java.util.Scanner;
 import java.io.FileInputStream;
 
-
 class Solution3 {
 	public static void main(String args[]) throws Exception
 	{

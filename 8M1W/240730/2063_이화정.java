@@ -30,5 +30,6 @@ class Solution {
 			System.out.println(arr[N/2]);
 
 
+
 	}
 }
