@@ -1,10 +1,10 @@
-import java.util.Scanner;   //런타임 에러가 나버림
+import java.util.Scanner;
 
 public class 평탄화1208 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		for(int i = 0; i <1000 ; i++) {
+		for(int tc = 1; tc <=10 ; tc++) { //테스트 케이스 10으로 설정!!
 			int dn = sc.nextInt(); //덤프횟수
 			int[] arr = new int[100];
 			
@@ -55,7 +55,7 @@ public class 평탄화1208 {
 				
 				
 				
-				System.out.printf("#%d %d\n",(i+1),height_difference);
+				System.out.printf("#%d %d\n",(tc),height_difference);
 				
 				
 			
