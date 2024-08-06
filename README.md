@@ -12,7 +12,7 @@
 ## Member
 |      date       | 문제 | 김서현 | 송우석 | 엄윤준 | 윤병희 | 이화정 | 형서희 | 홍태휘 |
 |-----------------|------|------|------|------|------|------|------|------|
-| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) | | | | ✅ - |✅✅| |✅✅|
+| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) | | | | ✅ - |✅✅|✅ |✅✅|
 | ~ 08. 07. [수] 2 | [방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | | | |✅✅ | |✅|
 
 
