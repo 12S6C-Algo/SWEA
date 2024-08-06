@@ -15,7 +15,7 @@ public class 알파벳개수 {
 		
 		for(int i = 0; i < S.length();i++) {
 			//charAt: 문자열 --> char 문자 형태로 변환
-			int c = S.charAt(i);
+			char c = S.charAt(i);
 			//문자 c가 a - z 범위 안에 있다면 
 			if(c >= 'a' && c <= 'z') {
 			//알파벳 카운트 값 누적해줌
