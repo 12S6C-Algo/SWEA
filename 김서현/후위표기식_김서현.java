@@ -1,4 +1,4 @@
-package 백준;
+package 알고망고;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,20 +7,21 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class 후위표기식 {
+public class 후위표기식8월9일 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder();	//스트링 빌더에 최종결과(후위표기식)을 담음
 
-        char[] array = br.readLine().toCharArray(); //문자열 --> 문자배열 생성 
+        char[] arr = br.readLine().toCharArray(); //문자열 --> 문자배열 생성 'A','+''B'
 
-        Stack<Character> stack = new Stack<>();	
+        Stack<Character> stack = new Stack<>();	//LIFO
 
-        for(int i=0;i<array.length;i++){
-            char c = array[i];	//배열에 있는 값들을 c라는 문자에 받아준다 
+        
+        
+        for(int i=0;i<arr.length;i++){
+            char c = arr[i];	//배열에 있는 값들을 c라는 문자에 받아준다 
             if(c == '+' || c == '-' || c == '*' || c == '/'){		//c가 연산자라면 
-            	//스택이 비어있지 않고 , 아래서 정의한 우선순위에 부합한다면 , 
-            	//스택 아래있는것보다 최근에 있는게 우선순위가 더 크다면
+            	//스택이 비어있지 않고, 최근 연산자 우선순위 < 스택에 쌓인 연산자 우선순위
                 while (!stack.isEmpty() && priority(stack.peek()) >= priority(c)){		
                     sb.append(stack.pop());
                 }
@@ -33,14 +34,17 @@ public class 후위표기식 {
                     sb.append(stack.pop());
                 }
                 stack.pop();
-            } else {
+                
+            } else { 												//피연산자(문자) 일때 
                 sb.append(c);
             }
 
 
         }
 
-        while (!stack.isEmpty()){
+        
+        
+        while (!stack.isEmpty()){	//스택이 어떤게 남아있다면?
             sb.append(stack.pop());
         }
 
