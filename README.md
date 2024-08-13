@@ -13,7 +13,7 @@
 |      date       | 문제 | 김서현 | 박민경 | 송우석 | 엄윤준 | 윤병희 | 이화정 | 형서희 | 홍태휘 |
 |-----------------|------|------|------|------|------|------|------|------|------|
 | ~ 08. 14. [수] 1 | [큐](https://www.acmicpc.net/problem/10845), [요세푸스 문제](https://www.acmicpc.net/problem/1158) | 김 | 박 | 송 | 엄 | ✅✅ | 이 | 형 | 홍 |
-| ~ 08. 14. [수] 2 | [트럭](https://www.acmicpc.net/problem/13335), [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 김 | 박 | 송 | 엄 | ✅✅ | 이 | 형 | 홍 |
+| ~ 08. 14. [수] 2 | [트럭](https://www.acmicpc.net/problem/13335), [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 김 | 박 | 송 | 엄 | ✅✅ | ✅✅ | 형 | 홍 |
 | ~ 08. 09. [금] 1 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 김 | 박 | 송 | ✅ | ✅ | ✅ | 형 | ✅ |
 | ~ 08. 09. [금] 2 | [후위 표기식](https://www.acmicpc.net/problem/1918) | ✅ | 박 | 송 | ✅ | ✅ | ✅ | 형 | ✅ |
 | ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) |✅✅| 박 | |✅✅| ✅✅ |✅✅|✅✅|✅✅|
