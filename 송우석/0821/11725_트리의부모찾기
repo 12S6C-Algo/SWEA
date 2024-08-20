@@ -1,0 +1,52 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+public class Main {
+    static int N;
+    static boolean[] visited;
+    static ArrayList<Integer>[] arr;
+    static int[] parent;  // 부모를 저장할 배열
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        N = Integer.parseInt(br.readLine());
+        visited = new boolean[N + 1];
+        arr = new ArrayList[N + 1];
+        parent = new int[N + 1];  // 부모 노드를 저장할 배열 초기화
+
+        for (int i = 0; i <= N; i++) {
+            arr[i] = new ArrayList<>();
+        }
+
+        for (int i = 1; i < N; i++) {
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int a = Integer.parseInt(st.nextToken());
+            int b = Integer.parseInt(st.nextToken());
+
+            arr[a].add(b);
+            arr[b].add(a);
+        }
+        DFS(1);  // 루트 노드가 1번 노드이므로, 1번 노드부터 DFS 시작
+
+        // 부모 노드 출력
+        StringBuilder sb = new StringBuilder();
+        for (int i = 2; i <= N; i++) {
+            sb.append(parent[i]).append('\n');
+        }
+        System.out.print(sb);
+    }
+
+    static void DFS(int node) {
+        visited[node] = true;
+
+        for (int i : arr[node]) {
+            if (!visited[i]) {
+                parent[i] = node;  // 현재 노드를 자식 노드의 부모로 설정
+                DFS(i);  // 자식 노드로 DFS 재귀 호출
+            }
+        }
+    }
+}
