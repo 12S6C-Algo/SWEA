@@ -23,8 +23,8 @@
 | ~ 08. 14. [수] 2 | [트럭](https://www.acmicpc.net/problem/13335), [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 김 | 박 | ✅✅ | - ✅ | ✅✅ | ✅✅ | 형 | ✅✅  |
 | ~ 08. 09. [금] 1 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | 박 | ✅ | ✅ | ✅ | ✅ | 형 | ✅ |
 | ~ 08. 09. [금] 2 | [후위 표기식](https://www.acmicpc.net/problem/1918) | ✅ | 박 | ✅ | ✅ | ✅ | ✅ | 형 | ✅ |
-| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) |✅✅| 박 | |✅✅| ✅✅ |✅✅|✅✅|✅✅|
-| ~ 08. 07. [수] 2 | [방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | 박 | |✅✅| ✅✅ |✅✅ | |✅ ✅|
+| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) |✅✅| 박 |✅✅|✅✅| ✅✅ |✅✅|✅✅|✅✅|
+| ~ 08. 07. [수] 2 | [방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | 박 |✅✅|✅✅| ✅✅ |✅✅ | |✅ ✅|
 <!-- 양식 | ~ 08. 16. [금] 1 | [큐](https://www.acmicpc.net/problem/10845) | 김 | 박 | 송 | 엄 | 윤 | 이 | 형 | ✅ | --> 
 
 ## Problum Number
