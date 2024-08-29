@@ -19,12 +19,12 @@
 | ~ 08. 21. [수] 2 | [트리](https://www.acmicpc.net/problem/4803) [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | 김 | 박 | 송 | 엄 | ❌❌ | 이 | 형 | ❌❌ |
 | ~ 08. 16. [금] 1 | [풍선터뜨리기](https://www.acmicpc.net/problem/2346) | 김 | 박 | 송 | 엄 | ❌ | 이 | ✅ | ❌ |
 | ~ 08. 16. [금] 2 | [에디터](https://www.acmicpc.net/problem/1406) | 김 | 박 | 송 | 엄 | ✅ | 이 | 형 | ✅ |
-| ~ 08. 14. [수] 1 | [큐](https://www.acmicpc.net/problem/10845), [요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅ | 박 | 송 | - ✅ | ✅✅ | 이 | ✅✅ | ✅✅   |
-| ~ 08. 14. [수] 2 | [트럭](https://www.acmicpc.net/problem/13335), [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 김 | 박 | 송 | - ✅ | ✅✅ | ✅✅ | 형 | ✅✅  |
-| ~ 08. 09. [금] 1 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | 박 | 송 | ✅ | ✅ | ✅ | 형 | ✅ |
-| ~ 08. 09. [금] 2 | [후위 표기식](https://www.acmicpc.net/problem/1918) | ✅ | 박 | 송 | ✅ | ✅ | ✅ | 형 | ✅ |
-| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) |✅✅| 박 | |✅✅| ✅✅ |✅✅|✅✅|✅✅|
-| ~ 08. 07. [수] 2 | [방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | 박 | |✅✅| ✅✅ |✅✅ | |✅ ✅|
+| ~ 08. 14. [수] 1 | [큐](https://www.acmicpc.net/problem/10845), [요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅ | 박 | ✅ | - ✅ | ✅✅ | 이 | ✅✅ | ✅✅   |
+| ~ 08. 14. [수] 2 | [트럭](https://www.acmicpc.net/problem/13335), [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 김 | 박 | ✅ | - ✅ | ✅✅ | ✅✅ | 형 | ✅✅  |
+| ~ 08. 09. [금] 1 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | 박 | ✅ | ✅ | ✅ | ✅ | 형 | ✅ |
+| ~ 08. 09. [금] 2 | [후위 표기식](https://www.acmicpc.net/problem/1918) | ✅ | 박 | ✅ | ✅ | ✅ | ✅ | 형 | ✅ |
+| ~ 08. 07. [수] 1 | [알파벳 개수](https://www.acmicpc.net/problem/10808), [애너그램 만들기](https://www.acmicpc.net/problem/1919) |✅✅| 박 |✅✅|✅✅| ✅✅ |✅✅|✅✅|✅✅|
+| ~ 08. 07. [수] 2 | [방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | 박 |✅✅|✅✅| ✅✅ |✅✅ | |✅ ✅|
 <!-- 양식 | ~ 08. 16. [금] 1 | [큐](https://www.acmicpc.net/problem/10845) | 김 | 박 | 송 | 엄 | 윤 | 이 | 형 | ✅ | --> 
 
 ## Problum Number
