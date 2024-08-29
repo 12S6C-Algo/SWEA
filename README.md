@@ -16,7 +16,7 @@
 | ~ 08. 28. [수] 1 | [영역 구하기](https://www.acmicpc.net/problem/2583) | ✅ | 박 | ✅ | ✅ | ✅ | ✅ | 형 | ❌ |
 | ~ 08. 28. [수] 2 | [불](https://www.acmicpc.net/problem/4179) | ✅ | 박 | ❌ | ❌ | ❌ | 이 | 형 | ❌ |
 | ~ 08. 21. [수] 1 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) [트리 순회](https://www.acmicpc.net/problem/1991) | ❌ | 박 | ✅ | ❌❌ | ❌✅ | ✅ | 형 | ❌❌ |
-| ~ 08. 21. [수] 2 | [트리](https://www.acmicpc.net/problem/4803) [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | ❌ | 박 | ❌ | ❌❌ | ❌❌ | 이 | 형 | ❌❌ |
+| ~ 08. 21. [수] 2 | [트리](https://www.acmicpc.net/problem/4803) [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | ❌❌ | 박 | ❌ | ❌❌ | ❌❌ | 이 | 형 | ❌❌ |
 | ~ 08. 16. [금] 1 | [풍선터뜨리기](https://www.acmicpc.net/problem/2346) | ❌ | 박 | ❌ | ❌ | ❌ | 이 | ✅ | ❌ |
 | ~ 08. 16. [금] 2 | [에디터](https://www.acmicpc.net/problem/1406) | ❌ | 박 | ❌ | ✅ | ✅ | 이 | 형 | ✅ |
 | ~ 08. 14. [수] 1 | [큐](https://www.acmicpc.net/problem/10845), [요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅❌ | 박 | ✅ | - ✅ | ✅✅ | 이 | ✅✅ | ✅✅   |
